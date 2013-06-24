@@ -1,0 +1,20 @@
+[
+{
+  "modid": "MCD",
+  "name": "Console Debugger",
+  "description": "A Console Debugger for minecraft. Driven via ingame-chat",
+  "version": "@VERSION@",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "reinei"
+  ],
+  "credits": "By Reinei",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
